@@ -1,6 +1,6 @@
 # AngularDynamicComponent
 
-This project created to load the component dynamically at run time instead of staticaly 
+This project created to load the component dynamically at run time instead of statically 
 
 Project Description
 ===================
